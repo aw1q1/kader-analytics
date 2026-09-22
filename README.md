@@ -2,9 +2,10 @@
 ### Arab Content Creators Analytics & Impact Intelligence
 
 ![Status](https://img.shields.io/badge/Status-Scoping%20%26%20Setup-orange)
-![Track](https://img.shields.io/badge/DEPI-Junior%20Data%20Analyst-blue)
+![DEPI](https://img.shields.io/badge/DEPI-Junior%20Data%20Analyst-blue)
 ![Version](https://img.shields.io/badge/Version-v0.1--dev-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
+![Code License](https://img.shields.io/badge/Code-MIT-green)
+![Data License](https://img.shields.io/badge/Data-CC%20BY--NC%204.0-lightgrey)
 
 منصة تحليلية مستقلة متخصصة في قياس وتأطير أداء صناع المحتوى والبودكاست في العالم العربي، بالاعتماد على التحليل الإحصائي وتتبع مؤشرات التأثير والنمو الفعلي لعام 2026.
 
@@ -24,3 +25,9 @@
 * **Habiba Salama** — Core Contributor / Analyst
 * **Nour Abo El-Leil** — Core Contributor / Analyst
 * **Marwan El-Malla** — Core Contributor / Analyst
+
+---
+
+## 📄 الترخيص (Licensing)
+* **الكود البرمجي (Code):** مرخص بموجب **[MIT License](LICENSE)** للاستخدام والتطوير البرمجي الحر.
+* **البيانات والتقارير (Data & Dashboards):** مرخصة بموجب **CC BY-NC 4.0** (للاستخدام التعليمي وغير التجاري فقط مع الإشارة للمصدر).
